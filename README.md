@@ -1,7 +1,7 @@
 # Hi there, I'm Fleșeriu Rareș! 👋  
 
 ## 📝 About Me  
-🎓 I’m a 3rd-year **Computer Science student at Technical University of Cluj-Napoca**. \
+🎓 I’m a 4th-year **Computer Science student at Technical University of Cluj-Napoca**. \
 💡 Always eager to learn and explore new technologies.  
 📩 **How to reach me:** fleseriurares@yahoo.com
 
